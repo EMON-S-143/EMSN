@@ -8,4 +8,4 @@ https://github.com/EMON-S-143/EMSN.git
 
  ls
 
- python e+s-143_Enc.py
+ python E+S-143.py
